@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
-permalink: /experience/
+title: About
+permalink: /about/
 ---
 [bklouttit@gmail.com](mailto:bklouttit@gmail.com)
