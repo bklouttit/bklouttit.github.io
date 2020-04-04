@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /About Me/
+permalink: /about/
 ---
 
 Some information about you!
