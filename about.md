@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /About Me/
 ---
 
 Some information about you!
@@ -12,4 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bklouttit@gmail.com](mailto:bklouttit@gmail.com)
+[(424) 634-8360]((424) 634-8360)
