@@ -13,4 +13,3 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [bklouttit@gmail.com](mailto:bklouttit@gmail.com)
-[(424) 634-8360]((424) 634-8360)
