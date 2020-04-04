@@ -3,12 +3,4 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-
-Welcome
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
 [bklouttit@gmail.com](mailto:bklouttit@gmail.com)
